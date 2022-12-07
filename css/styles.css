@@ -106,9 +106,8 @@ img {
   gap: 50px;
 }
 
-.header-nav-item {
-  /* width: calc((100% - 100px) / 3); */
-}
+/* .header-nav-item {
+  width: calc((100% - 100px) / 3); */
 
 /* .header-nav-item:not(:last-child) {
   margin-right: 50px;
